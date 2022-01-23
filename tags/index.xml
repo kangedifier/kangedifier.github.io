@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on KangEdifier - I&#39;m here ^o^</title>
+    <link>https://kangedifier.github.io/tags/</link>
+    <description>Recent content in Tags on KangEdifier - I&#39;m here ^o^</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://kangedifier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Theme preview</title>
+      <link>https://kangedifier.github.io/tags/theme-preview/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://kangedifier.github.io/tags/theme-preview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
