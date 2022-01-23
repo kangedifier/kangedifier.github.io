@@ -16,14 +16,28 @@
   </url>
   
   <url>
-    <loc>https://kangedifier.github.io/categories/</loc>
-    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <loc>https://kangedifier.github.io/post/</loc>
+    <lastmod>2022-01-23T13:48:30+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://kangedifier.github.io/post/</loc>
+    <loc>https://kangedifier.github.io/post/test/</loc>
+    <lastmod>2022-01-23T13:48:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kangedifier.github.io/post/hello/</loc>
+    <lastmod>2022-01-23T13:38:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kangedifier.github.io/categories/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
