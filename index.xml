@@ -29,5 +29,23 @@
       <description>Who am I? </description>
     </item>
     
+    <item>
+      <title>Test</title>
+      <link>https://kangedifier.github.io/post/test/</link>
+      <pubDate>Sun, 23 Jan 2022 13:48:30 +0800</pubDate>
+      
+      <guid>https://kangedifier.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Local PNG</title>
+      <link>https://kangedifier.github.io/post/hello/</link>
+      <pubDate>Sun, 23 Jan 2022 13:38:28 +0800</pubDate>
+      
+      <guid>https://kangedifier.github.io/post/hello/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
